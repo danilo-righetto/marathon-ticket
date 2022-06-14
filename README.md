@@ -25,3 +25,5 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ## Source
 
 The project was developed based on this link [Da UI ao Código - Ticket da Maratona Explorer](https://www.youtube.com/watch?v=qDerqzmELx8)
+
+The official code is [here](https://github.com/Rocketseat/maratona-explorer-ticket)
